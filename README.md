@@ -1,3 +1,3 @@
-# Traithlon Acronyms
+# Triathlon Acronyms
 
-Machine readable list of acronyms frequently used in Triathlon and endurance training.
+Machine readable list of acronyms frequently used in triathlon and endurance training.
