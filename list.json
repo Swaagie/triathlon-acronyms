@@ -1,0 +1,132 @@
+[
+	{
+		"abbreviation": "RI",
+		"acronym_id": 0,
+		"expansion": "Rest Interval"
+	},
+	{
+		"abbreviation": "HR",
+		"acronym_id": 1,
+		"expansion": "Heart Rate"
+	},
+	{
+		"abbreviation": "HRM",
+		"acronym_id": 2,
+		"expansion": "Heart Rate Monitor"
+	},
+	{
+		"abbreviation": "RPM",
+		"acronym_id": 3,
+		"expansion": "Revolutions Per Minute"
+	},
+	{
+		"abbreviation": "FTP",
+		"acronym_id": 4,
+		"expansion": "Functional Threshold Power"
+	},
+	{
+		"abbreviation": "ATP",
+		"acronym_id": 5,
+		"expansion": "Annual Training Plan"
+	},
+	{
+		"abbreviation": "BPM",
+		"acronym_id": 6,
+		"expansion": "Beats Per Minute"
+	},
+	{
+		"abbreviation": "Z",
+		"acronym_id": 7,
+		"expansion": "Zone"
+	},
+	{
+		"abbreviation": "TSS",
+		"acronym_id": 8,
+		"expansion": "Training Stress Scores"
+	},
+	{
+		"abbreviation": "DNF",
+		"acronym_id": 9,
+		"expansion": "Did Not Finish"
+	},
+	{
+		"abbreviation": "DNS",
+		"acronym_id": 10,
+		"expansion": "Did Not Start"
+	},
+	{
+		"abbreviation": "CTL",
+		"acronym_id": 11,
+		"expansion": "Chronic Training Load"
+	},
+	{
+		"abbreviation": "ATL",
+		"acronym_id": 12,
+		"expansion": "Acute Training Load"
+	},
+	{
+		"abbreviation": "PR",
+		"acronym_id": 13,
+		"expansion": "Personal Record"
+	},
+	{
+		"abbreviation": "TT",
+		"acronym_id": 14,
+		"expansion": "Time Trial"
+	},
+	{
+		"abbreviation": "RI",
+		"acronym_id": 15,
+		"expansion": "Rest Interval"
+	},
+	{
+		"abbreviation": "RHR",
+		"acronym_id": 16,
+		"expansion": "Resting Heart Rate"
+	},
+	{
+		"abbreviation": "AHR",
+		"acronym_id": 17,
+		"expansion": "Average Heart Rate"
+	},
+	{
+		"abbreviation": "LT",
+		"acronym_id": 18,
+		"expansion": "Lactate Threshold"
+	},
+	{
+		"abbreviation": "WU",
+		"acronym_id": 19,
+		"expansion": "Warm Up"
+	},
+	{
+		"abbreviation": "CD",
+		"acronym_id": 20,
+		"expansion": "Cool Down"
+	},
+	{
+		"abbreviation": "P",
+		"acronym_id": 21,
+		"expansion": "Pause"
+	},
+	{
+		"abbreviation": "T",
+		"acronym_id": 22,
+		"expansion": "Tempo"
+	},
+	{
+		"abbreviation": "RI",
+		"acronym_id": 23,
+		"expansion": "Rest Interval"
+	},
+	{
+		"abbreviation": "MHR",
+		"acronym_id": 24,
+		"expansion": "Maximum Heart Rate"
+	},
+	{
+		"abbreviation": "BMR",
+		"acronym_id": 25,
+		"expansion": "Basal Metabolic Rate"
+	}
+]
